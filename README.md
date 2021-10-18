@@ -6,4 +6,6 @@ The putpose of this election analysis was to present the data in an organized ma
 
 ## Election-Audit results
 
-Election-Audit Summary
+
+## Election-Audit Summary
+
