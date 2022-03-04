@@ -34,7 +34,7 @@ winning_county_votes = 0
 county_voter_turnout = 0
 
 # Read the csv and convert it into a list of dictionaries
-with open(election_results.csv) as election_data:
+with open("Resources/election_results.csv") as election_data:
     reader = csv.reader(election_data)
 
     # Read the header
